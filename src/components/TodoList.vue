@@ -25,9 +25,6 @@
     padding: 0px;
   }
 
-
-  
-
   .todo-empty {
     height: 40px;
     line-height: 40px;
